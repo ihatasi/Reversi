@@ -156,7 +156,6 @@ class Game(Board):
             print('黒の勝ち〜')
             exit()
         else:
-            print('AAA')
             pass
 
 
